@@ -1,0 +1,15 @@
+/build*/
+/out/
+/CMakeUserPresets.json
+/.vs/
+/.idea/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/CTestTestfile.cmake
+/Testing/
+*.user
+*.suo
+*.swp
+.DS_Store
+Thumbs.db
